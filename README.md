@@ -15,4 +15,16 @@ python manage.py migrate <br />
 To start the server: <br />
 python manage.py runserver <br />
 
+Register a User <br />
+Endpoint - http://localhost:8000/api/users/ (POST) <br />
+Body - { <br />
+    "user":{ <br />
+    "email":"test@gmail.com", <br />
+    "username":"test", <br />
+    "password":"test@2020" <br />
+} <br />
+} <br />
+
+
+
 
