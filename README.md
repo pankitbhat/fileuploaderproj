@@ -1,7 +1,5 @@
 # fileuploaderproj
 
-Git History got deleted due to some error . I have added the files via upload
-
 Clone the project and Install the dependencies <br />
 pip install pipenv <br />
 pipenv install <br />
